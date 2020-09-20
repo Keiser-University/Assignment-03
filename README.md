@@ -12,7 +12,7 @@ This is a skeleton, based on some of the Babylon examples, of a small project th
 
 In addition to building a simple VR application using Babylon.js, you will also have the opportunity to learn how to run and debug WebXR applications on your VR device.
 
-## Due: Friday September 23, 11:59am (noon)
+## Due: Friday September 25, 11:59am (noon)
 
 ## Name and GT user-id
 
