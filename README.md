@@ -28,7 +28,7 @@ Each of the parts to be added are discussed in one of the lessons in the [Babylo
 0. Ensure your program builds with no Typescript warnings. (1)
 2. Add a 2D GUI panel attached to the left controller that has a color picker and two buttons ("cube" and "sphere"). (1)
 3. When you click, create a cube or sphere as described below, with the correct color. (2)
-4. Pressing the grip button on the controller with the menu erases all the objects created. (1)
+4. Pressing the grip buttons on both controllers erases all the objects created. (1)
 
 Up to 2 additional bonus points will be given for some of the following (1 bonus each):
 - add a slider to the GUI to control the size of the object created.
