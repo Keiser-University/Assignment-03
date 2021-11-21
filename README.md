@@ -1,4 +1,4 @@
-# Assignment 1:  Different Architectures
+# Assignment:  Different Architectures
 
 This is a three part assignment where you will implement a simple VR experience in three different programming environments: Babylon.js, Playcanvas, and A-Frame.
 
@@ -6,13 +6,13 @@ The goal of the assignment is to have you gain experience with three very differ
 
 This repository is for the first of the three parts of the assignment, where you will use Babylon.js.
 
-# Assignment 1(a):  Babylon.js VR Experience 
+# Assignment (a):  Babylon.js VR Experience 
 
 This is a skeleton, based on some of the Babylon examples, of a small project that will let you build, debug, and run Babylon applications locally.
 
 In addition to building a simple VR application using Babylon.js, you will also have the opportunity to learn how to run and debug WebXR applications on your VR device.
 
-## Due: Friday September 25, 11:59am (noon)
+## Due: Sunday 11:59pm (midnight)
 
 ## Name and GT user-id
 
@@ -21,7 +21,7 @@ User ID:
 
 ## Rubric
 
-Graded out of 5.
+Graded out of 100.
 
 Each of the parts to be added are discussed in one of the lessons in the [Babylon 101](https://doc.babylonjs.com/babylon101/) tutorial.
 
